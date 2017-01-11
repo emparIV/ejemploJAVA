@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author a053881694p
+ * @author Empar Ibáñez
  */
 public class CuentaCliente {
 
