@@ -7,7 +7,7 @@ package cuentacliente;
 
 /**
  *
- * @author a053881694p
+ * @author Empar Ibáñez
  */
 public class Cuenta {
     String fechaApertura;
